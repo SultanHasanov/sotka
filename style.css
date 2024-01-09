@@ -44,6 +44,7 @@ body {
   border: 1.5px solid rgba(255, 66, 127, 1);
   cursor: pointer;
   background: transparent;
+  margin: 0 0 40px 0;
 }
 
 .logo {
